@@ -17,6 +17,7 @@ final class FloatingPointApproximationTests: XCTestCase {
         
         XCTAssertTrue(-0.0 ==~ 0.0)
         XCTAssertTrue(Double.infinity ==~ Double.infinity)
+        XCTAssertFalse(Double.infinity ==~ -Double.infinity)
         XCTAssertFalse(Double.nan ==~ Double.nan)
     }
     
