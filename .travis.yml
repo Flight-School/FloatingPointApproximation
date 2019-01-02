@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: FloatingPointApproximation.xcodeproj
+xcode_scheme: FloatingPointApproximation
+xcode_destination: platform=macOs
