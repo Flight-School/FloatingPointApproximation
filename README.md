@@ -1,5 +1,7 @@
 # FloatingPointApproximation
 
+![Build Status](https://api.travis-ci.com/Flight-School/FloatingPointApproximation.svg?branch=master)
+
 A correct way to determine if two floating-point numbers
 are approximately equal to one another.
 
