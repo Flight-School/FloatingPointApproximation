@@ -1,6 +1,6 @@
 # FloatingPointApproximation
 
-![Build Status](https://api.travis-ci.com/Flight-School/FloatingPointApproximation.svg?branch=master)
+[![Build Status][build status badge]][build status]
 
 A correct way to determine if two floating-point numbers
 are approximately equal to one another.
@@ -127,3 +127,6 @@ MIT
 ## Contact
 
 Mattt ([@mattt](https://twitter.com/mattt))
+
+[build status]: https://travis-ci.org/Flight-School/FloatingPointApproximation
+[build status badge]: https://api.travis-ci.com/Flight-School/FloatingPointApproximation.svg?branch=master
