@@ -6,7 +6,7 @@ A correct way to determine if two floating-point numbers
 are approximately equal to one another.
 
 This functionality is discussed in Chapter 3 of
-[Flight School Guide to Swift Numbers](https://gumroad.com/l/swift-numbers).
+[Flight School Guide to Swift Numbers](https://flight.school/books/numbers).
 
 ## Requirements
 
